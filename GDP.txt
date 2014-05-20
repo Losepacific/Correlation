@@ -1,0 +1,190 @@
+Country (or territory):2007
+Afghanistan:713
+Albania:6754
+Algeria:6549
+Angola:4935
+Antigua and Barbuda:20673
+Argentina:13474
+Armenia:5303
+Australia:37429
+Austria:38470
+Azerbaijan:7878
+Bahamas:31399
+Bahrain:38568
+Bangladesh:1421
+Barbados:24173
+Belarus:11024
+Belgium:35648
+Belize:7621
+Benin:1381
+Bhutan:3995
+Bolivia:4076
+Bosnia and Herzegovina:7160
+Botswana:13503
+Brazil:9855
+Brunei:52526
+Bulgaria:12048
+Burkina Faso:1186
+Burundi:522
+Cape Verde:3634
+Cambodia:1817
+Cameroon:2076
+Canada:39196
+Central African Republic:755
+Chad:1953
+Chile:14669
+China:5526
+Colombia:8649
+Comoros:1165
+Democratic Republic of the Congo:486
+Republic of the Congo:3726
+Costa Rica:10671
+Ivory Coast:1613
+Croatia:18330
+Cyprus:27604
+Czech Republic:25275
+Denmark:37017
+Djibouti:2237
+Dominica:12080
+Dominican Republic:7595
+Ecuador:7809
+Egypt:5483
+El Salvador:6738
+Equatorial Guinea:24053
+Eritrea:695
+Estonia:20889
+Ethiopia:795
+Fiji:4414
+Finland:35145
+France:33421
+Gabon:15377
+Gambia:1644
+Georgia:4659
+Germany:34448
+Ghana:2307
+Greece:28516
+Grenada:13582
+Guatemala:4714
+Guinea:1008
+Guinea-Bissau:1089
+Guyana:6172
+Haiti:1171
+Honduras:4273
+Hong Kong:43144
+Hungary:18732
+Iceland:40332
+India:2789
+Indonesia:3675
+Iran:11485
+Iraq:5261
+Ireland:42652
+Israel:28991
+Italy:31001
+Jamaica:8866
+Japan:33418
+Jordan:5075
+Kazakhstan:10798
+Kenya:1529
+Kiribati:5955
+South Korea:26398
+Kosovo:
+Kuwait:39209
+Kyrgyzstan:1989
+Laos:1997
+Latvia:17663
+Lebanon:10765
+Lesotho:1542
+Liberia:531
+Libya:14789
+Lithuania:18906
+Luxembourg:80785
+Macedonia:8929
+Madagascar:952
+Malawi:677
+Malaysia:13738
+Maldives:7167
+Mali:999
+Malta:23864
+Marshall Islands:8060
+Mauritania:1851
+Mauritius:12071
+Mexico:13920
+Federated States of Micronesia:6347
+Moldova:2708
+Mongolia:3530
+Montenegro:10247
+Morocco:4107
+Mozambique:774
+Burma:1277
+Namibia:6374
+Nepal:1134
+Netherlands:39665
+New Zealand:27587
+Nicaragua:3733
+Niger:660
+Nigeria:2044
+Norway:52141
+Oman:22370
+Pakistan:2740
+Palau:20279
+Panama:10386
+Papua New Guinea:1961
+Paraguay:5143
+Peru:7753
+Philippines:3493
+Poland:16306
+Portugal:22588
+Qatar:80762
+Romania:11449
+Russia:14758
+Rwanda:1024
+Samoa:5600
+San Marino:
+São Tomé and Príncipe:1838
+Saudi Arabia:24259
+Senegal:1744
+Serbia:9679
+Seychelles:22436
+Sierra Leone:977
+Singapore:52986
+Slovakia:20298
+Slovenia:27894
+Solomon Islands:2742
+South Africa:9784
+South Sudan:
+Spain:29840
+Sri Lanka:4258
+Saint Kitts and Nevis:16950
+Saint Lucia:11771
+Saint Vincent and the Grenadines:11315
+Sudan:2019
+Suriname:9953
+Swaziland:5534
+Sweden:37199
+Switzerland:41772
+Syria:4472
+Taiwan:31261
+Tajikistan:1636
+Tanzania:1230
+Thailand:7910
+Timor-Leste:12395
+Togo:894
+Tonga:6693
+Trinidad and Tobago:19286
+Tunisia:8368
+Turkey:12600
+Turkmenistan:5117
+Tuvalu:2963
+Uganda:1164
+Ukraine:6921
+United Arab Emirates:35215
+United Kingdom:36281
+United States:47964
+Uruguay:11315
+Uzbekistan:2363
+Vanuatu:4337
+Venezuela:12238
+Vietnam:2793
+Yemen:2339
+Zambia:1308
+Zimbabwe:611

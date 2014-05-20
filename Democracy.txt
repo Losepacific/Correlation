@@ -1,0 +1,167 @@
+Sweden:9.88
+Iceland:9.71
+Netherlands:9.66
+Norway:9.55
+Denmark:9.52
+Finland:9.25
+Luxembourg:9.10
+Australia:9.09
+Canada:9.07
+Switzerland:9.02
+Ireland:9.01
+New Zealand:9.01
+Germany:8.82
+Austria:8.69
+Malta:8.39
+Spain:8.34
+US:8.22
+Czech Republic:8.17
+Portugal:8.16
+Belgium:8.15
+Japan:8.15
+Greece:8.13
+UK:8.08
+France:8.07
+Mauritius:8.04
+Costa Rica:8.04
+Slovenia:7.96
+Uruguay:7.96
+South Africa:7.91
+Chile:7.89
+South Korea:7.88
+Taiwan:7.82
+Estonia:7.74
+Italy:7.73
+India:7.68
+Botswana:7.60
+Cyprus:7.60
+Hungary:7.53
+Cape Verde:7.43
+Lithuania:7.43
+Slovakia:7.40
+Brazil:7.38
+Latvia:7.37
+Panama:7.35
+Jamaica:7.34
+Poland:7.30
+Israel:7.28
+Trinidad and Tobago:7.18
+Bulgaria:7.10
+Romania:7.06
+Croatia:7.04
+Ukraine:6.94
+Mexico:6.67
+Argentina:6.63
+Serbia:6.62
+Mongolia:6.60
+Sri Lanka:6.58
+Montenegro:6.57
+Namibia:6.54
+Papua New Guinea:6.54
+Suriname:6.52
+Moldova:6.50
+Lesotho:6.48
+Philippines:6.48
+Indonesia:6.41
+Timor Leste:6.41
+Colombia:6.40
+Macedonia:6.33
+Honduras:6.25
+El Salvador:6.22
+Paraguay:6.16
+Benin:6.16
+Guyana:6.15
+Dom Rep:6.13
+Bangladesh:6.11
+Peru:6.11
+Guatemala:6.07
+Hong Kong:6.03
+Palestine:6.01
+Mali:5.99
+Malaysia:5.98
+Bolivia:5.98
+Albania:5.91
+Singapore:5.89
+Madagascar:5.82
+Lebanon:5.82
+Bosnia and Hercegovina:5.78
+Turkey:5.70
+Nicaragua:5.68
+Thailand:5.67
+Fiji:5.66
+Ecuador:5.64
+Venezuela:5.42
+Senegal:5.37
+Ghana:5.35
+Mozambique:5.28
+Zambia:5.25
+Liberia:5.22
+Tanzania:5.18
+Uganda:5.14
+Kenya:5.08
+Russia:5.02
+Malawi:4.97
+Georgia:4.90
+Cambodia:4.77
+Ethiopia:4.72
+Burundi:4.51
+Gambia:4.39
+Haiti:4.19
+Armenia:4.15
+Kyrgyzstan:4.08
+Iraq:4.01
+Pakistan:3.92
+Jordan:3.92
+Comoros:3.90
+Morocco:3.90
+Egypt:3.90
+Rwanda:3.82
+Burkina Faso:3.72
+Kazakhstan:3.62
+Sierra Leone:3.57
+Niger:3.54
+Bahrain:3.53
+Cuba:3.52
+Nigeria:3.52
+Nepal:3.42
+Côte d’Ivoire:3.38
+Belarus:3.34
+Azerbaijan:3.31
+Cameroon:3.27
+Congo Brazzaville:3.19
+Algeria:3.17
+Mauritania:3.12
+Kuwait:3.09
+Afghanistan:3.06
+Tunisia:3.06
+Yemen:2.98
+China:2.97
+Swaziland:2.93
+Iran:2.93
+Sudan:2.90
+Qatar:2.78
+Oman:2.77
+Democratic Republic of Congo:2.76
+Vietnam:2.75
+Gabon:2.72
+Bhutan:2.62
+Zimbabwe:2.62
+Tajikistan:2.45
+UAE:2.42
+Angola:2.41
+Djibouti:2.37
+Syria:2.36
+Eritrea:2.31
+Laos:2.10
+Equatorial Guinea:2.09
+Guinea:2.02
+Guinea-Bissau:2.00
+Saudi Arabia:1.92
+Uzbekistan:1.85
+Libya:1.84
+Turkmenistan:1.83
+Myanmar:1.77
+Togo:1.75
+Chad:1.65
+Central Africa:1.61
+North Korea:1.03
